@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+  background-color: Bisque;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
