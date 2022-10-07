@@ -9,3 +9,9 @@ h1 {
   background-color: silver;
   border: 10px dotted black;
 }
+#lasagna,#fried-chicken,#omelette {
+  border-style: solid;
+  border-left-width: 5px;
+  border-bottom-width: 5px;
+  border-color: orange;
+}
