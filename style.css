@@ -2,3 +2,10 @@
 body {
   background-color: Red;
 }
+h1 {
+  text-align: center;
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 100px;
+  background-color: silver;
+  border: 10px dotted black;
+}
