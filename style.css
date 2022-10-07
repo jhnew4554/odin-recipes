@@ -15,3 +15,24 @@ h1 {
   border-bottom-width: 5px;
   border-color: orange;
 }
+
+h1 {
+  text-align: center;
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 100px;
+  background-color: silver;
+  border: 10px dotted black;
+}
+ul {
+  font-size: 40px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Handwriting", cursive;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  text-decoration-color: black;
+}
